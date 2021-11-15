@@ -1,0 +1,21 @@
+Variables:
+
+Las Variables son como cajones donde puedes guardar Datos de distintos tipos, numericos, cadenas de texto, booleanos(true, false), para poder acceder en algun momento para ser utilizado.
+
+Strings:
+
+Los tipo de datos Strings son traducidos como (cadena de caracteres), y se identifica encerrado entre '', por ejemplo: 'Hola Mundo!', '234', estos son strings.
+
+Funciones (argumentos, `return`):
+
+Las funciones son estructuras de codigos que realizan una tarea especifica, pueden contener argumentos o no y siempre retornan (devuelven), un resultado.
+las funciones que contienen argumentos, estos se deben declarar entre () y al invocarla, alli deben de estar alojados, las funciones que tienen expresamente la palabra reservada 'return' devuelven un resultado x.
+Si no se utiliza expresamente la palabra reservada 'return', devuelve Undefined.
+
+Declaraciones `if`:
+
+los condicionales 'If', son estructuras de codigo que se utilizan cuando se quiere llegar a un camino, en el codigo, mediante una o varias condiciones, dependiendo si es (true), 'vesdadero', o (false) 'falso', es el resultado que se obtendra.
+
+Valores booleanos (`true`, `false`):
+
+Los valores 'true'(verdadero), o (false)'falso', son los denominados valores Booleanos, y se utilizan en el codigo para condicionales, asignar variables para ser utilizados luego, etc. 
