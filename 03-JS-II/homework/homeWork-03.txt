@@ -1,0 +1,10 @@
+Los signos `&&`, `||`, `!`, son operadores logicos que se utilizan para comparar datos y determinar un tipo de resultado.
+
+Los "&&" son denominados AND y se utiliza para comparar un dato Y otro sean Verdaderos, ej: (a && b)= true.-
+Los "||" son denominados OR y se utilizan para comparar si uno u otro es Verdadero, ej:
+(a || b)= true.-
+El "!" es denominado NOT, de negacion, y se utiliza justamente para negar un dato, ej:
+(!a===b)= indica que "a" es totalmente diferente en tipo de dato y dato en si que "b".- 
+
+El  `for` es un bucle que se utiliza para recorrer elementos como por ejemplo datos de un Array[].
+
