@@ -1,0 +1,3 @@
+* Arrays / Arreglos
+
+Los arrays son estructuras de datos que se representan entre [], un array puede contener: Strings, numeros, arrays[], objetos{}, funciones(), cualquier tipo de datos y es accedido a traves de sus indices (posiciones), de sus elementos.
