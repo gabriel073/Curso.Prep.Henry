@@ -1,0 +1,21 @@
+    * Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+    Objetos:
+    Son notaciones para almacenar datos como los arrays pero con la diferencia que esta notacion lleva pares de Clave:valor/ key:value.
+    En la clave mayormente se especifica que se va a almacenar y seguido de : en el valor puede ir cualquier tipo de dato llamese: numerico, string, function, boolean, etc.-
+
+    Propiedades:
+    Las propiedades se le llaman a las claves de los objetos, y se pueden acceder mediante notacion de punto o encerrados por corchetes, ejemplo: objeto.propiedad  U objeto[propiedad].-
+
+    Métodos:
+    Los metodos son las funciones que pueden estar dentro de un objeto alli puede alojarse diferentes acciones a realizar, y puede invocarse luego como se hace en las funciones().- 
+
+    Bucle `for…in`:
+    el bucle for..in  se utiliza para recorrer un objeto y te devuelva los indices del mismo.
+
+    Notación de puntos vs notación de corchetes:
+    la diferencia entre ellos que la not de puntos se utiliza para llegar a una propiedad conocida del objeto cuando la notacion de []se utiliza cuando no se sabe si estara esa propiedad en el ojb.-
