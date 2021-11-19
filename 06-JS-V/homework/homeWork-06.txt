@@ -1,0 +1,9 @@
+`prototype`
+* _Constructors_ (de Clases)
+
+prototype:
+Se utiliza para formar los metodos con prototype y asi poder accederlos desde alli y no generar tanta carga en memoria.
+Javascript tiene un prototype para cada Clase formada.
+
+Constructores de Clases:
+los constructores son funciones anonimas que definen un nuevo objeto y lo devuelve, creando copias del mismo, tambien llamadas (instancias), cada una con sus propias propiedades, metodos y valores.
